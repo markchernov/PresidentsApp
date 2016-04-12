@@ -1,0 +1,65 @@
+@import url(http://fonts.googleapis.com/css?family=Advent+Pro:100);
+html { 
+  background:  url(http://img1.joyreactor.com/pics/post/joe-baiden-obama-speech-funny-1051589.gif) no-repeat center center fixed; 
+  background-size: cover;
+}
+/*Playing around with different animated links.....
+
+http://upload.wikimedia.org/wikipedia/commons/d/dd/Muybridge_race_horse_animated.gif*/
+
+
+h1{
+	text-align: center;
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 3em;
+  margin: .2em .5em;
+  color: white;
+}
+body {
+    height: 100%;
+}
+
+
+a:link, a:visited{
+background-color: #f44336;
+color: white;
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+border-radius: 60px;
+
+
+}
+
+a:hover, a:active{
+background-color: red;
+
+}
+
+
+
+/*/* unvisited link */
+
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: blue;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+<<<<<<< HEAD
+}
+=======
+}*/
+>>>>>>> 04ae4db3ad4f4f7ca074b2614435103bd1da9738

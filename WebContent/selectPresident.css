@@ -1,0 +1,53 @@
+body{
+	
+	background-image: url("http://wallpapercave.com/wp/7qDMdB4.jpg");
+    background-attachment: fixed;
+}
+
+img{
+
+	max-width: 250px;
+	max-height: 250px;
+
+}
+
+#form{
+
+page-break-before: right;
+
+}
+
+.radio{
+	width: 19px;
+  height: 25px;
+  padding: 0 5px 0 0;
+  display: block;
+  clear: left;
+  float: left;
+}
+
+.submit{
+
+background-color: #f44336;
+color: white;
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+border-radius: 60px;
+
+
+}
+.wrapper{
+	text-align: center;
+}
+.submit{
+background-color: red;
+position: absolute;
+
+
+
+}
+
+
+

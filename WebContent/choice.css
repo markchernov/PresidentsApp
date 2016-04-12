@@ -1,0 +1,80 @@
+div p{
+
+	font-size: 2em;
+	color: red;
+}
+
+html{
+	
+	
+
+background-image: url(http://cache.desktopnexus.com/wallpapers/1964/1964283-1920x1080-Freedom-Flys.jpg?st=4HnDbg240TwwN-TI6_2sxA&e=1453758692);
+
+}
+
+h1{
+	font-family: Impact, Charcoal, sans-serif;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+	text-align: center;	
+	text-transform: capitalize; 
+	color: white;
+	background-color: blue;
+	background-opacity: .50;
+}
+
+.info {
+
+	visibility: hidden; 
+
+}
+
+img{
+	position: relative;
+	left: 70px;
+	border: 3px solid #73AD21;
+}
+
+/*div.background 
+{
+    background: url(http://www.wcurtisdraper.com/wp-content/uploads/2014/04/American-Flag-Banner.jpeg) repeat;
+    border: 2px solid black;
+
+}
+
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    position: absolute;
+    text-align: center;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox h1 {
+	vertical-align: middle;
+    margin: auto;
+    font-weight: bold;
+    color: #000000;
+    width: 100px; 
+    margin-left: auto;
+    margin-right: auto;
+
+
+}*/
+a:link, a:visited{
+background-color: #f44336;
+color: white;
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+border-radius: 60px;
+
+
+}
+
+a:hover, a:active{
+background-color: red;
+
+}

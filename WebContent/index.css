@@ -1,0 +1,56 @@
+h1 {
+text-align: center;
+color: white;
+
+}
+body{
+
+background-image: url("http://www.pixelstalk.net/wp-content/uploads/2015/06/The-liberty-statue-in-new-york.jpg");
+/*background-attachment: fixed;*/
+background-repeat: no-repeat;
+
+}
+
+
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: blue;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+	
+a{
+font-family: Impact, Charcoal, sans-serif;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+	text-align: center;	
+	text-transform: capitalize; 
+	color: white;
+
+}
+
+}
+
+#infinity{
+
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	margin: auto;
+}
+
+
+
+
